@@ -17,6 +17,7 @@ Desain website ini mengusung tema terang (*Light Mode*) dengan palet warna utama
 
 ---
 
+
 ## 🛠️ Persyaratan Sistem
 
 Sebelum memulai kontribusi, pastikan perangkat Anda sudah terinstal:
