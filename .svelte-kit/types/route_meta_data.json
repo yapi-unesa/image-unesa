@@ -1,0 +1,145 @@
+{
+	"/(public)": [
+		"src/routes/(public)/+page.server.ts",
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts",
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(auth)": [
+		"src/routes/+layout.server.ts"
+	],
+	"/": [
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard": [
+		"src/routes/dashboard/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/analytics": [
+		"src/routes/dashboard/analytics/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/bph": [
+		"src/routes/dashboard/bph/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/bph/transaksi/[id]": [
+		"src/routes/dashboard/bph/transaksi/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/dmb": [
+		"src/routes/dashboard/dmb/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/dmb/rapat/[id]": [
+		"src/routes/dashboard/dmb/rapat/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/dpb": [
+		"src/routes/dashboard/dpb/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/dpb/aspirasi/[id]": [
+		"src/routes/dashboard/dpb/aspirasi/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/dpo": [
+		"src/routes/dashboard/dpo/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/dpo/anggota/[id]": [
+		"src/routes/dashboard/dpo/anggota/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/ekraf": [
+		"src/routes/dashboard/ekraf/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/ekraf/produk/[id]": [
+		"src/routes/dashboard/ekraf/produk/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/kominfo": [
+		"src/routes/dashboard/kominfo/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/kominfo/artikel/[id]": [
+		"src/routes/dashboard/kominfo/artikel/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/sosker": [
+		"src/routes/dashboard/sosker/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/sosker/program/[id]": [
+		"src/routes/dashboard/sosker/program/[id]/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/superadmin": [
+		"src/routes/dashboard/superadmin/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/dashboard/superadmin/users": [
+		"src/routes/dashboard/superadmin/users/+page.server.ts",
+		"src/routes/dashboard/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(public)/ekraf": [
+		"src/routes/(public)/ekraf/+page.server.ts",
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(auth)/login": [
+		"src/routes/(auth)/login/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/logout": [
+		"src/routes/logout/+server.ts"
+	],
+	"/(public)/oprec": [
+		"src/routes/(public)/oprec/+page.server.ts",
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(public)/portofolio": [
+		"src/routes/(public)/portofolio/+page.server.ts",
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(public)/portofolio/[slug]": [
+		"src/routes/(public)/portofolio/[slug]/+page.server.ts",
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(public)/sponsor": [
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/(public)/tentang": [
+		"src/routes/(public)/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/unauthorized": [
+		"src/routes/+layout.server.ts"
+	]
+}

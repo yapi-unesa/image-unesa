@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/dashboard/dmb/rapat/[id]/+page.svelte";
