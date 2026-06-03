@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/dashboard/sosker/program/[id]/+page.svelte";
